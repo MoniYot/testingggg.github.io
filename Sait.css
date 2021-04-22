@@ -1,0 +1,22 @@
+h1 {
+    display: inline;
+    padding-left: 377px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+.gallery{
+    
+}
+
+.images{
+    margin: 0 auto;
+    
+}
+
+.images img{
+    margin: 20px;
+    width: 175px;
+    height: 175px;
+    border-style: groove;
+}
